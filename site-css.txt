@@ -1,0 +1,40 @@
+body, h2
+{
+	font-family:'lora-regular';
+	src: url('Lora/Lora-regular.ttf');
+	color:rgb(243, 244, 228);
+}
+header
+{
+	color:rgb(243, 244, 228);
+}
+.item
+{
+	height:410px;
+}
+.jumbotron
+{
+	margin-top:10px;
+}
+@media all and (max-width: 768px)
+{
+	#MyCarousel
+	{
+		display:none;
+	}
+}
+#qui, #contact, #projets
+{
+	background-color:rgb(34, 34, 34);
+	padding-bottom:30px;
+}
+input
+{
+	color:rgb(51, 51, 51);
+}
+footer
+      {
+        padding-bottom: 20px; 
+      }
+
+
