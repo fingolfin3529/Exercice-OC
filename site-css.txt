@@ -36,4 +36,4 @@ footer
       {
         padding-bottom: 20px; 
       }
-/* texte inuitle */
+/* texte inuitle a partir de l'ordinateur cette fois ci */
