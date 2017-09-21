@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="epica design">
 
-    <title>Mon Entreprise de 2016</title>
+    <title>Mon Entreprise de 2017</title>
 
     <!-- Bootstrap core CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
